@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bebebe;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Facebook-icon" transform="translate(-250 -3174)">
+    <circle id="타원_14" data-name="타원 14" class="cls-1" cx="22" cy="22" r="22" transform="translate(250 3174)"/>
+    <g id="그룹_26" data-name="그룹 26" transform="translate(261 3185.003)">
+      <g id="그룹_27" data-name="그룹 27" transform="translate(0 -0.003)">
+        <path id="패스_7" data-name="패스 7" class="cls-2" d="M40.693,30.258A10.6,10.6,0,1,0,27.319,40.645a.893.893,0,0,0,1.121-.873v-6.4H25.75V30.258h2.69V27.887c0-2.7,1.582-4.187,4-4.187a16.053,16.053,0,0,1,2.372.21v2.648H33.479a1.544,1.544,0,0,0-1.727,1.681v2.019h2.939l-.47,3.111H31.752v6.4a.893.893,0,0,0,1.121.873A10.739,10.739,0,0,0,40.693,30.258Z" transform="translate(-19.096 -19.087)"/>
+      </g>
+    </g>
+  </g>
+</svg>

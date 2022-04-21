@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Noto+Serif+KR:wght@500&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 기본 셋팅 */
+body{background-color: #F9F9F9;}
+a, p, span, li, h1, h2, h3, h4, h5, h6{list-style: none; text-decoration: none; color: #151515; font-family: 'Noto Sans KR', sans-serif;}
+h1{ font-size: 70px; text-align: center; font-weight: bold;} 
+.thin{font-weight: 100;}
+h2{ font-size: 60px;}
+h3{ font-size: 20px; font-family: 'Noto Serif KR', serif;}
+.green{color: #16AA56;}
+.medium{font-weight: medium; margin-top: 20px;}
+.mobile-basic-font{font-size: 16px;}
+
+
+
+/* head 상단 영역*/
+header{width: 100%; height: 60px;}
+/* main 영역 */
+main{width: 100%; padding: 0 16%;}
+
+/* slide 배너 */
+
+
+/* NFT 영역 */
+.nft-container{margin-top: 300px;}
+
+.nft-items > .item{margin-bottom: 160px;}
+.nft-item01{margin-top: 80px;}
+.itembg-size{width: 100%; height: 640px; background-color: #F9F9F9;}
+.itembg-size > img {width: 100%; height: 640px;}
+.item > h3{margin: 80px 0 22px 0;}
+.item > p {border-top: 1px solid #707070; width: 100%; padding: 8px 0}
+
+.nft-item03 > .item03-img > img{width: 600px; height: 640px;}
+.nft-item04 > .item04-img > img{width: 717px; height: 640px;}
+.nft-item05 > .item05-img > img{width: 700px; height: 640px;}
+
+/* artist-container */
+.artist-container{margin-top: 326px;}
+.artist-container > span{font-weight: 700;}
+.artist-container > h4{font-weight: 100; font-size: 22px; margin-top: 10px;}
+
+nav{margin-top: 30px;}
+ul{width: 100%;}
+ul > #artist{position: relative;}
+ul > #artist > .label{
+    position: relative; 
+    border: 1px solid #707070; 
+    background-color: white; 
+    padding: 10px; 
+    cursor: pointer;
+    overflow: hidden;
+}
+ul > #artist > .artist-info {
+    position: relative; 
+    border: 1px solid #707070; 
+    border-bottom: none; 
+    background-color: white;
+    border-top: none;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.5s;
+    margin: auto;
+}
+ul > #artist.active > .artist-info{height: 380px; overflow: hidden; border-bottom: 1px solid #707070;}
+.artist-info-inner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle; 
+    margin: 106px auto;
+}
+.artist-info-inner > .artist-text-info{margin-left: 60px;}
+.artist-info-inner > .artist-text-info > p,
+.artist-info-inner > .artist-text-info > span{font-family: 'Noto Sans KR', sans-serif;}
+.artist-info-inner > .artist-text-info > p{font-weight: 700; font-size: 16px;}
+.artist-info-inner > .artist-text-info > span{font-size: 14px; font-weight: 500; margin-top: 10px;}
+.artist-info-inner > .artist-text-info > .artist-sns{
+    position: relative;
+    top: 10px;
+}
+.artist-info-inner > .artist-text-info > .artist-sns > a{
+    float: left;
+    padding-right: 30px;
+}
+.artist-info-inner > img{width: 154px; height: 154px;}
+
+/*nft-exhibition-container*/
+.nft-exhibition-container{margin-top: 300px;}
+.nft-exhibition-toptit{font-weight: 100; font-size: 32px; line-height: 54px; }
+
+.nft-when > p,
+.nft-where > p{font-weight: 900; font-size: 32px; line-height: 54px; font-family: 'Noto Serif KR', serif;}
+
+.nft-when > span,
+.nft-where > span{font-weight: 700; font-size: 14px; margin-bottom: 16px;}
+.nft-when > .thin,
+.nft-where > .thin{
+    font-weight: 100;
+    font-size: 14px;
+}
+.nft-when{margin-bottom: 60px;}
+.slide01 > h2{font-size: 50px; font-weight: 100; padding: 18px 0 0 0; line-height: 64px;}
+.swiper-button-num-container{
+    position: relative;
+    top: 0;
+    border-top: 1px solid #707070; 
+    width: 100%;
+    height: 80px;
+}
+
+
+/* partner-container */
+.partner-container{width: 100%; margin-top: 200px;}
+.partner-toptit{width: 100%; text-align: right; font-weight: 700;}
+.partnerLOGO-rollingwrap{
+    width: 100%; 
+    height: 260px; 
+    border: 1px solid #707070; 
+    margin-top: 26px;
+}
+/* rolling */
+.rollingwrap-inner{
+    width: 100%; 
+    height: 50%; 
+    margin-top: 60px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+.wrap01, .wrap02, .wrap03,
+.wrap04, .wrap05, .wrap06 {
+    width: 14.5%; 
+    height: 50%; 
+    float: left; 
+    margin-right: 20px; 
+}
+.wrap06{margin-right: 0;}
+.roll{width: 100%; height: 100%; overflow: hidden;}
+.roll ul {width: 100%; height: 100%; position: relative;}
+.roll > li {
+    width: 100%; 
+    height: 100%; 
+    text-align: center; 
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+/* footer 하단 영역*/
+footer{margin: 26px 0 80px 0;padding: 0 16%;}
+.footer-inner{display: flex; justify-content: left; width: 100%; height: 214px; border-top: 1px solid black;}
+.left, .right{width: 50%; height: 100%; margin-top: 20px;}
+.left > span, 
+.right >#contect-adress-box > .contect-box > span,
+.right >#contect-adress-box > .address-box > span  {font-size: 14px;}
+.right >#contect-adress-box > .contect-box,
+.right >#contect-adress-box > .address-box{text-align: right;}
+.contect-box p{margin-right: 34px;}
+.contect-box span:nth-child(2){margin-right: 6px;}
+.address-box{margin-top: 20px;}
+#footer-sns > li{
+    float: left; 
+    padding: 0 10px; 
+    position: relative; 
+    top: 100px; 
+    left: 330px;
+}
+#footer-sns > li:nth-child(3){padding: 0;}
+
+
+
+

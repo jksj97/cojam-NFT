@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #16aa56;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="museum-green-icon" transform="translate(-996 -5866)">
+    <g id="Facebook-green-icon" transform="translate(746 2692)">
+      <circle id="타원_14" data-name="타원 14" class="cls-1" cx="22" cy="22" r="22" transform="translate(250 3174)"/>
+    </g>
+    <g id="그룹_71" data-name="그룹 71" transform="translate(1007 5877)">
+      <g id="그룹_72" data-name="그룹 72" transform="translate(0 0)">
+        <path id="패스_11" data-name="패스 11" class="cls-2" d="M21.306,30.7H.7A.7.7,0,0,1,0,30V28.641a.7.7,0,0,1,.7-.7H21.306a.7.7,0,0,1,.694.7V30a.7.7,0,0,1-.694.7" transform="translate(0 -8.7)"/>
+        <path id="패스_12" data-name="패스 12" class="cls-2" d="M21.5,26.893H2.255V24.727a.757.757,0,0,1,.729-.782H20.776a.757.757,0,0,1,.729.782Z" transform="translate(-0.705 -7.455)"/>
+        <path id="패스_13" data-name="패스 13" class="cls-2" d="M20.82,8.7H2.94a.686.686,0,0,1-.685-.687V6.632a.686.686,0,0,1,.685-.687H20.82a.686.686,0,0,1,.685.687V8.013a.686.686,0,0,1-.685.687" transform="translate(-0.705 -1.851)"/>
+        <rect id="사각형_91" data-name="사각형 91" class="cls-2" width="2.75" height="11.09" transform="translate(9.625 6.241)"/>
+        <rect id="사각형_92" data-name="사각형 92" class="cls-2" width="2.75" height="11.09" transform="translate(4.125 6.241)"/>
+        <rect id="사각형_93" data-name="사각형 93" class="cls-2" width="2.75" height="11.09" transform="translate(15.125 6.241)"/>
+        <path id="패스_14" data-name="패스 14" class="cls-2" d="M12.384.127,5.947,4.191H19.7L13.259.127a.819.819,0,0,0-.875,0" transform="translate(-1.858 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

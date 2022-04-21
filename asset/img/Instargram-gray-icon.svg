@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #bebebe;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_48" data-name="사각형 48" class="cls-1" width="22" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Instargram-icon" transform="translate(-166 -3174)">
+    <circle id="타원_13" data-name="타원 13" class="cls-2" cx="22" cy="22" r="22" transform="translate(166 3174)"/>
+    <g id="그룹_24" data-name="그룹 24" transform="translate(177 3185)">
+      <g id="그룹_23" data-name="그룹 23" class="cls-3">
+        <rect id="사각형_79" data-name="사각형 79" class="cls-4" width="18" height="18" transform="translate(2 2)"/>
+        <path id="패스_4" data-name="패스 4" class="cls-4" d="M15.65,0H6.35A6.35,6.35,0,0,0,0,6.35v9.3A6.35,6.35,0,0,0,6.35,22h9.3A6.35,6.35,0,0,0,22,15.65V6.35A6.35,6.35,0,0,0,15.65,0m4.324,15.813a4.215,4.215,0,0,1-4.215,4.215H6.241a4.215,4.215,0,0,1-4.215-4.215V6.3A4.215,4.215,0,0,1,6.241,2.081h9.518A4.215,4.215,0,0,1,19.974,6.3Z"/>
+        <path id="패스_5" data-name="패스 5" class="cls-2" d="M39.678,34.321a5.708,5.708,0,1,0,5.708,5.708,5.708,5.708,0,0,0-5.708-5.708m0,9.409a3.7,3.7,0,1,1,3.7-3.7,3.7,3.7,0,0,1-3.7,3.7" transform="translate(-28.678 -28.975)"/>
+        <path id="패스_6" data-name="패스 6" class="cls-2" d="M101.273,24.39a1.33,1.33,0,1,0,1.33,1.33,1.33,1.33,0,0,0-1.33-1.33" transform="translate(-84.374 -20.591)"/>
+      </g>
+    </g>
+  </g>
+</svg>
