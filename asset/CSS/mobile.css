@@ -119,6 +119,8 @@
     .swiper1 > .swiper-wrapper > #slide02{background: url(../img/moblie480-slide01.png) no-repeat center / contain; height: 90vh; margin-top: 40px; }
     .swiper1 > .swiper-wrapper > #slide03{background: url(../img/moblie480-slide02.png) no-repeat center / contain; height: 90vh; margin-top: 40px; }
     .swiper1 > .swiper-wrapper > #slide04{background: url(../img/moblie480-slide03.png) no-repeat center / contain; height: 90vh; margin-top: 40px; }
+
+    .swiper2 > .swiper-wrapper > .swiper-slide{height: 100vh;}
     
     .itembg-size > img {width: 100%; height: 300px;}
     .nft-items > .item > h3{margin: 80px 0 6px 0;}
@@ -151,6 +153,8 @@
     .swiper1 > .swiper-wrapper > #slide02{background: url(../img/moblie360-slide01.png) no-repeat center / contain; height: 90vh; margin-top: 40px;}
     .swiper1 > .swiper-wrapper > #slide03{background: url(../img/moblie360-slide02.png) no-repeat center / contain; height: 90vh; margin-top: 40px;}
     .swiper1 > .swiper-wrapper > #slide04{background: url(../img/moblie360-slide03.png) no-repeat center / contain; height: 90vh; margin-top: 40px;}
+
+    .swiper2 > .swiper-wrapper > .swiper-slide{height: 100vh;}
 
     .nft-items{margin-top: 40px; text-align: center;}
     .itembg-size{height: 200px;}
