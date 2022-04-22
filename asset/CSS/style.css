@@ -163,14 +163,13 @@ footer{margin: 26px 0 80px 0;padding: 0 16%;}
 .right >#contect-adress-box > .address-box > span  {font-size: 14px;}
 .right >#contect-adress-box > .contect-box,
 .right >#contect-adress-box > .address-box{text-align: right;}
-.left > span{margin-top: 20px;}
-.contect-box span:nth-child(2){margin-right: 6px;}
-.address-box{margin-top: 10px;}
+.left > span{position: relative; top: 20px;}
+.contect-box > span{margin: 20px 0 0 0;}
 #footer-sns > li{
     float: left; 
     padding: 0 10px; 
     position: relative; 
-    top: 100px; 
+    top: 20px; 
     left: 330px;
 }
 #footer-sns > li:nth-child(3){padding: 0;}
